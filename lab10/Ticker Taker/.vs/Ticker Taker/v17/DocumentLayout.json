@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\HocTap\\Ticker Taker\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{41A43C1A-C2FF-AB0D-A2ED-0DAF4446B075}|Assembly-CSharp.csproj|d:\\hoctap\\ticker taker\\assets\\_project\\heartbounce.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41A43C1A-C2FF-AB0D-A2ED-0DAF4446B075}|Assembly-CSharp.csproj|solutionrelative:assets\\_project\\heartbounce.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41A43C1A-C2FF-AB0D-A2ED-0DAF4446B075}|Assembly-CSharp.csproj|D:\\HocTap\\Ticker Taker\\assets\\_project\\mousefollow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41A43C1A-C2FF-AB0D-A2ED-0DAF4446B075}|Assembly-CSharp.csproj|solutionrelative:assets\\_project\\mousefollow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HeartBounce.cs",
+              "DocumentMoniker": "D:\\HocTap\\Ticker Taker\\Assets\\_Project\\HeartBounce.cs",
+              "RelativeDocumentMoniker": "Assets\\_Project\\HeartBounce.cs",
+              "ToolTip": "D:\\HocTap\\Ticker Taker\\Assets\\_Project\\HeartBounce.cs",
+              "RelativeToolTip": "Assets\\_Project\\HeartBounce.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAA5wBMAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-24T01:47:05.294Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MouseFollow.cs",
+              "DocumentMoniker": "D:\\HocTap\\Ticker Taker\\Assets\\_Project\\MouseFollow.cs",
+              "RelativeDocumentMoniker": "Assets\\_Project\\MouseFollow.cs",
+              "ToolTip": "D:\\HocTap\\Ticker Taker\\Assets\\_Project\\MouseFollow.cs",
+              "RelativeToolTip": "Assets\\_Project\\MouseFollow.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-24T01:14:39.176Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\HocTap\\AniAi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9E906402-09DB-7ADC-5A54-0A0AE878AD72}|Assembly-CSharp.csproj|d:\\hoctap\\aniai\\assets\\_project\\enemyanimation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E906402-09DB-7ADC-5A54-0A0AE878AD72}|Assembly-CSharp.csproj|solutionrelative:assets\\_project\\enemyanimation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E906402-09DB-7ADC-5A54-0A0AE878AD72}|Assembly-CSharp.csproj|d:\\hoctap\\aniai\\assets\\_project\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E906402-09DB-7ADC-5A54-0A0AE878AD72}|Assembly-CSharp.csproj|solutionrelative:assets\\_project\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E906402-09DB-7ADC-5A54-0A0AE878AD72}|Assembly-CSharp.csproj|d:\\hoctap\\aniai\\assets\\_project\\enemybehaviour.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E906402-09DB-7ADC-5A54-0A0AE878AD72}|Assembly-CSharp.csproj|solutionrelative:assets\\_project\\enemybehaviour.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PlayerController.cs",
+              "DocumentMoniker": "D:\\HocTap\\AniAi\\Assets\\_Project\\PlayerController.cs",
+              "RelativeDocumentMoniker": "Assets\\_Project\\PlayerController.cs",
+              "ToolTip": "D:\\HocTap\\AniAi\\Assets\\_Project\\PlayerController.cs",
+              "RelativeToolTip": "Assets\\_Project\\PlayerController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-10T01:44:14.44Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EnemyBehaviour.cs",
+              "DocumentMoniker": "D:\\HocTap\\AniAi\\Assets\\_Project\\EnemyBehaviour.cs",
+              "RelativeDocumentMoniker": "Assets\\_Project\\EnemyBehaviour.cs",
+              "ToolTip": "D:\\HocTap\\AniAi\\Assets\\_Project\\EnemyBehaviour.cs",
+              "RelativeToolTip": "Assets\\_Project\\EnemyBehaviour.cs",
+              "ViewState": "AQIAAFoAAAAAAAAAAAAkwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-10T01:30:25.996Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EnemyAnimation.cs",
+              "DocumentMoniker": "D:\\HocTap\\AniAi\\Assets\\_Project\\EnemyAnimation.cs",
+              "RelativeDocumentMoniker": "Assets\\_Project\\EnemyAnimation.cs",
+              "ToolTip": "D:\\HocTap\\AniAi\\Assets\\_Project\\EnemyAnimation.cs",
+              "RelativeToolTip": "Assets\\_Project\\EnemyAnimation.cs",
+              "ViewState": "AQIAABwAAAAAAAAAAAAgwAwAAABRAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-10T01:29:13.107Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
